@@ -1,0 +1,10 @@
+exp2 - Student mark analysis system
+exp3 - Inventory system 
+exp4 - Online railway reservation system
+exp5 - hotel management system
+exp6 - Automating the banking process
+exp7 - Library management system 
+exp8 - Passport automation system
+exp9 - e-ticketing system
+
+
